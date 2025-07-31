@@ -1,0 +1,17 @@
+Vivado Simulator v2025.1.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Users/Asus/Desktop/2025.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot logic_gates_tb_behav xil_defaultlib.logic_gates_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/Asus/Desktop/100days/Day01/Behavioural_Modeling.v" Line 1. Module logic_gates_assign doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asus/Desktop/100days/Day01/Behavioural_Modeling.v" Line 1. Module logic_gates_assign doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.logic_gates_assign
+Compiling module xil_defaultlib.logic_gates_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot logic_gates_tb_behav

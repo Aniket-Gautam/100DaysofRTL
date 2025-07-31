@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Thu Jul 31 16:48:35 2025
+# Process ID         : 7820
+# Current directory  : C:/Users/Asus/Desktop/100days/Day01/project_1
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent27248 C:\Users\Asus\Desktop\100days\Day01\project_1\project_1.xpr
+# Log file           : C:/Users/Asus/Desktop/100days/Day01/project_1/vivado.log
+# Journal file       : C:/Users/Asus/Desktop/100days/Day01/project_1\vivado.jou
+# Running On         : LAPTOP-56A0FFI2
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : AMD Ryzen 7 5800HS with Radeon Graphics        
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16539 MB
+# Swap memory        : 2550 MB
+# Total Virtual      : 19089 MB
+# Available Virtual  : 2978 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Asus/Desktop/100days/Day01/project_1/project_1.xpr
+update_compile_order -fileset sources_1
+

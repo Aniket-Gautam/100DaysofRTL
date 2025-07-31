@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+A B | AND OR NOT NAND NOR XOR XNOR
+0 0 |  0   0   1    1    1   0    1
+0 1 |  0   1   1    1    0   1    0
+1 0 |  0   1   0    1    0   1    0
+1 1 |  1   1   0    0    0   0    1
+$finish called at time : 40 ns : File "C:/Users/Asus/Desktop/100days/Day01/Behavioural_Modeling_tb.v" Line 33
