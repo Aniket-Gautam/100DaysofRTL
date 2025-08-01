@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asus/Desktop/100days/day0010/Structural_modeling.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Structural_modeling
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asus/Desktop/100days/day0010/Structural_modeling_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Structural_modeling_tb
